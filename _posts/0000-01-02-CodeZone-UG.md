@@ -1,5 +1,6 @@
-!(https://avatars1.githubusercontent.com/u/68301571?s=400&v=4)
-CodeZone</>
+![#CodeZone</>](https://github.com/CodeZone-UG/hello-world/blob/master/codezoneug_logo.png)
+
+#CodeZone</>
 >_Code made easy for Newbies_
 
 Find us on **Social Media** here:
