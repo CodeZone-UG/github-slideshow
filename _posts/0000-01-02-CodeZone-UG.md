@@ -1,7 +1,3 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
 CodeZone</>
 >_Code made easy for Newbies_
 
